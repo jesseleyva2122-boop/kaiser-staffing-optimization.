@@ -1,0 +1,8 @@
+test_all_directions_against_oracle (test_engine.ParetoTests.test_all_directions_against_oracle) ... ok
+test_input_edges (test_engine.ParetoTests.test_input_edges) ... ok
+test_ties_and_duplicates (test_engine.ParetoTests.test_ties_and_duplicates) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.239s
+
+OK

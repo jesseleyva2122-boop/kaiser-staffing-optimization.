@@ -1,0 +1,20 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.4.0"
+  },
+  "seed": 42,
+  "fresh_kernel_run": "completed all analysis cells",
+  "candidate_count": 100,
+  "pareto_count": 30,
+  "fresh_kernel_verified": true,
+  "kernel_type": "restarted ipykernel InProcessKernel in a fresh Python process (no sockets)",
+  "stable_candidate_sha256": "0326040470d107d64292bda9e6e4c998fc1c9c2d4f7e7b619dfa770a8fd4aa62",
+  "same_candidate_csv_on_repeat": true
+}

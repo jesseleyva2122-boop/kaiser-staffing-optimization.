@@ -1,0 +1,10 @@
+rate_varied,rate_factor,efficient_count,budget_met_count
+regular,0.8,30,100
+regular,1.0,30,60
+regular,1.2,30,0
+overtime,0.8,28,69
+overtime,1.0,30,60
+overtime,1.2,30,52
+float,0.8,27,72
+float,1.0,30,60
+float,1.2,29,58

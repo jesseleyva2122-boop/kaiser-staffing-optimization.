@@ -1,0 +1,5 @@
+,staffing_cost,staffing_cost,staffing_cost,staffing_cost,staffing_cost,coverage_pct,coverage_pct,coverage_pct,coverage_pct,coverage_pct,float_rn_shifts,float_rn_shifts,float_rn_shifts,float_rn_shifts,float_rn_shifts,overtime_hours,overtime_hours,overtime_hours,overtime_hours,overtime_hours
+,count,min,median,mean,max,count,min,median,mean,max,count,min,median,mean,max,count,min,median,mean,max
+pareto,,,,,,,,,,,,,,,,,,,,
+False,70,106920.0,120180.0,122472.0,142440.0,70,52.535714285714285,65.46428571428571,67.59183673469389,84.39285714285715,70,0,8.0,9.514285714285714,22,70,132,168.0,165.25714285714287,204
+True,30,106920.0,121800.0,123132.0,142440.0,30,53.107142857142854,67.19642857142857,68.73095238095239,84.92857142857143,30,0,8.0,9.8,22,30,132,168.0,168.4,204
